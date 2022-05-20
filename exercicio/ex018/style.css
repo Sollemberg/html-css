@@ -1,0 +1,28 @@
+body{
+    background-color: #F0CC9C;
+}
+
+h1{
+    color: #BA90F0;
+}
+#principal{
+    background-color: #78C3F0;
+    color: whitesmoke;
+    text-align: center;
+}
+
+h2{
+    color: #838EF0;
+}
+
+p{
+    text-align: justify;
+}
+
+.basico{
+    color: rgb(23, 78, 26);
+}
+
+.intermediario{
+    color: coral;
+}

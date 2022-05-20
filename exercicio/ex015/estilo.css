@@ -1,0 +1,15 @@
+body{
+    background-color: cadetblue;
+    font-size: 20px;    
+}
+h1{
+    color: darkcyan;
+    background-color: aqua;
+}
+h2{
+    color: rgb(241, 137, 9);
+    background-color: beige;
+}
+p{
+    text-align: justify;
+}
